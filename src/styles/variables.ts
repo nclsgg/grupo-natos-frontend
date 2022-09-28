@@ -1,12 +1,11 @@
 export const colors = {
-  background: '#F0F0F0',
-  green: '#02A79D',
-  purple: '#65328F',
-  strokeGray: '#CED3D9',
-  gray: '#697386',
-  dimGray: '#696969',
-  gradient: 'linear-gradient(to right, #02A79D, #65328F)',
-  reverseGradient: 'linear-gradient(to right, #65328F, #02A79D)',
+  background: '#FFFFFF',
+  mainBlue: '#0047BA',
+  darkGrey: '#1A1C1E',
+  lightGrey: '#F0F1F5',
+  transparentBlue: 'rgba(48, 85, 211, 0.09)',
+  titleGrey: '#030303',
+  textGrey: '#8C8C8C',
 }
 
 export const screenSize = {
